@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonkindo1710
 - 👀 I’m interested in HTML/CSS/Javascript
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on Web developing
 - 📫 How to reach me jasonkindo1710@gmail.com
 
